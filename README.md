@@ -1,16 +1,16 @@
 ## Hi there iam zeyad👋     
 
-🎯 Cybersecurity Student and Linux Enthusiast     
+✊ Cybersecurity Student and Linux Enthusiast     
 I am a passionate cybersecurity student dedicated to learning how to break, build, and secure systems     
 
-## Tech Stack &amp; Tools ⚒️ 
+## Tech Stack and Tools ⚒️ 
 
 **OS**: arch linux and windows     
 **security**: parrotos, nmap <br>
 **languages**: python, bash, go <br>
 
 
-## fun facts
+## fun facts ✨
 flued by coffee <br>
 When not coding You'll find me climbing ranks in competitive video games  <br>
 Offline Mode: Hitting the gym to stay sharp  <br>
