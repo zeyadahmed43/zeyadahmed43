@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there iam zeyad👋
+
+🎯 Cybersecurity Student & Linux Enthusiast
+I am a passionate cybersecurity student dedicated to learning how to break, build, and secure systems
+
+## Tech Stack & Tools ⚒️
+
+**OS**: arch linux & windows
+**security**: parrotos, nmap
+**languages**: python, bash, go
+
+
 
 <!--
 **zeyadahmed43/zeyadahmed43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
